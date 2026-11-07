@@ -1,4 +1,4 @@
-<img width="3323" height="500" alt="TahoeP16" src="https://github.com/user-attachments/assets/5f30b32e-38ff-4d23-8811-03b0f8818d04" />
+<img width="3323" alt="TahoeP16" src="https://github.com/user-attachments/assets/5f30b32e-38ff-4d23-8811-03b0f8818d04" />
 
 # TahoeP16
 
